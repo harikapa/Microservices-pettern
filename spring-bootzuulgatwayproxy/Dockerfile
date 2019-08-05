@@ -1,6 +1,6 @@
 FROM openjdk:11
 
-COPY target/spring-bootzuulgatwayproxy-0.0.1-SNAPSHOT.jar gateway.jar
+COPY target/spring-bootzuulgatewayproxy-0.0.1-SNAPSHOT.jar gateway.jar
 
 EXPOSE 8092
 
